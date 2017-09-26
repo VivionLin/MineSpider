@@ -1,0 +1,190 @@
+﻿----------Wed May 10 20:50:12 2017
+[Thread - 1] 新目标链接 :https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+----------
+[Thread - 1] Wed May 10 20:50:12 2017
+目标地址 :https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+----------
+[Thread - 1] 开始访问......Wed May 10 20:50:12 2017
+https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+----------
+[Thread - 1] 正在访问......Wed May 10 20:50:22 2017
+https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+抽取出的地址 : 
+
+https://click.simba.taobao.com/cc_im?p=kindle&s=409214286&k=449&e=5FovDxmMHZjVR7XomiTrlSgjXR%2BQAATBjzZ8Ygar3hQZVNgyLofim8HHql9%2BdSbEuRqMKrPwHc6ePiywyiyhb6mgTmwCGG3IhZMa%2Fb6LViWM3BltIZX0WKpgShhK8oIkqfDZr%2BgFlcd%2FYA%2BD6sObsGdV005uWFuuvH3v0uVv3h8zQat3nj2opHjdeDkL2TcGidQxRLzeQZzGqf9sf5Ri52Z6o4SUvZxE7%2B%2BdIrFzmt00d53goUsuACyJcrYDdnvwkfm1LUE%2F6G083A2SIrHAN8VT0KlpBOB1S%2B7RrCfM8%2BO8rlhIHbALkuArgTO9yP%2FiNDAgyAvYYzxp4WzSgB3ru3WAdfcBJQDWcSeayZU798ZDm6nJ%2FfUwMOeYBydRJBo%2FusmW%2BclOKPrNEagniLQRLJ0pcQTIqBLwsqmP3J6um9cFWp%2FWj0lYh0vZV3AhSO5%2B
+//detail.tmall.com/item.htm?id=534274368086&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+//detail.tmall.com/item.htm?id=536054401369&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+//detail.tmall.com/item.htm?id=541985647856&ns=1&abbucket=0
+//detail.tmall.com/item.htm?id=529330967656&ns=1&abbucket=0
+//detail.tmall.com/item.htm?id=44758603184&ns=1&abbucket=0
+//detail.tmall.com/item.htm?id=522680881881&ns=1&abbucket=0
+//detail.tmall.com/item.htm?id=530853853296&ns=1&abbucket=0
+//detail.tmall.com/item.htm?id=530420018213&ns=1&abbucket=0
+//detail.tmall.com/item.htm?id=45073526258&ns=1&abbucket=0
+--------------------
+----------
+[Thread - 1] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+----------Wed May 10 20:50:43 2017
+[Thread - 2] 新目标链接 :https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+----------Wed May 10 20:50:43 2017
+[Thread - 1] 新目标链接 :https://click.simba.taobao.com/cc_im?p=kindle&s=409214286&k=449&e=5FovDxmMHZjVR7XomiTrlSgjXR%2BQAATBjzZ8Ygar3hQZVNgyLofim8HHql9%2BdSbEuRqMKrPwHc6ePiywyiyhb6mgTmwCGG3IhZMa%2Fb6LViWM3BltIZX0WKpgShhK8oIkqfDZr%2BgFlcd%2FYA%2BD6sObsGdV005uWFuuvH3v0uVv3h8zQat3nj2opHjdeDkL2TcGidQxRLzeQZzGqf9sf5Ri52Z6o4SUvZxE7%2B%2BdIrFzmt00d53goUsuACyJcrYDdnvwkfm1LUE%2F6G083A2SIrHAN8VT0KlpBOB1S%2B7RrCfM8%2BO8rlhIHbALkuArgTO9yP%2FiNDAgyAvYYzxp4WzSgB3ru3WAdfcBJQDWcSeayZU798ZDm6nJ%2FfUwMOeYBydRJBo%2FusmW%2BclOKPrNEagniLQRLJ0pcQTIqBLwsqmP3J6um9cFWp%2FWj0lYh0vZV3AhSO5%2B
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+----------
+[Thread - 1] Wed May 10 20:50:43 2017
+目标地址 :https://click.simba.taobao.com/cc_im?p=kindle&s=409214286&k=449&e=5FovDxmMHZjVR7XomiTrlSgjXR%2BQAATBjzZ8Ygar3hQZVNgyLofim8HHql9%2BdSbEuRqMKrPwHc6ePiywyiyhb6mgTmwCGG3IhZMa%2Fb6LViWM3BltIZX0WKpgShhK8oIkqfDZr%2BgFlcd%2FYA%2BD6sObsGdV005uWFuuvH3v0uVv3h8zQat3nj2opHjdeDkL2TcGidQxRLzeQZzGqf9sf5Ri52Z6o4SUvZxE7%2B%2BdIrFzmt00d53goUsuACyJcrYDdnvwkfm1LUE%2F6G083A2SIrHAN8VT0KlpBOB1S%2B7RrCfM8%2BO8rlhIHbALkuArgTO9yP%2FiNDAgyAvYYzxp4WzSgB3ru3WAdfcBJQDWcSeayZU798ZDm6nJ%2FfUwMOeYBydRJBo%2FusmW%2BclOKPrNEagniLQRLJ0pcQTIqBLwsqmP3J6um9cFWp%2FWj0lYh0vZV3AhSO5%2B
+----------Wed May 10 20:50:43 2017
+[Thread - 2] 新目标链接 :https://click.simba.taobao.com/cc_im?p=kindle&s=409214286&k=449&e=5FovDxmMHZjVR7XomiTrlSgjXR%2BQAATBjzZ8Ygar3hQZVNgyLofim8HHql9%2BdSbEuRqMKrPwHc6ePiywyiyhb6mgTmwCGG3IhZMa%2Fb6LViWM3BltIZX0WKpgShhK8oIkqfDZr%2BgFlcd%2FYA%2BD6sObsGdV005uWFuuvH3v0uVv3h8zQat3nj2opHjdeDkL2TcGidQxRLzeQZzGqf9sf5Ri52Z6o4SUvZxE7%2B%2BdIrFzmt00d53goUsuACyJcrYDdnvwkfm1LUE%2F6G083A2SIrHAN8VT0KlpBOB1S%2B7RrCfM8%2BO8rlhIHbALkuArgTO9yP%2FiNDAgyAvYYzxp4WzSgB3ru3WAdfcBJQDWcSeayZU798ZDm6nJ%2FfUwMOeYBydRJBo%2FusmW%2BclOKPrNEagniLQRLJ0pcQTIqBLwsqmP3J6um9cFWp%2FWj0lYh0vZV3AhSO5%2B
+----------
+[Thread - 1] 开始访问......Wed May 10 20:50:43 2017
+https://click.simba.taobao.com/cc_im?p=kindle&s=409214286&k=449&e=5FovDxmMHZjVR7XomiTrlSgjXR%2BQAATBjzZ8Ygar3hQZVNgyLofim8HHql9%2BdSbEuRqMKrPwHc6ePiywyiyhb6mgTmwCGG3IhZMa%2Fb6LViWM3BltIZX0WKpgShhK8oIkqfDZr%2BgFlcd%2FYA%2BD6sObsGdV005uWFuuvH3v0uVv3h8zQat3nj2opHjdeDkL2TcGidQxRLzeQZzGqf9sf5Ri52Z6o4SUvZxE7%2B%2BdIrFzmt00d53goUsuACyJcrYDdnvwkfm1LUE%2F6G083A2SIrHAN8VT0KlpBOB1S%2B7RrCfM8%2BO8rlhIHbALkuArgTO9yP%2FiNDAgyAvYYzxp4WzSgB3ru3WAdfcBJQDWcSeayZU798ZDm6nJ%2FfUwMOeYBydRJBo%2FusmW%2BclOKPrNEagniLQRLJ0pcQTIqBLwsqmP3J6um9cFWp%2FWj0lYh0vZV3AhSO5%2B
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - https://click.simba.taobao.com/cc_im?p=kindle&s=409214286&k=449&e=5FovDxmMHZjVR7XomiTrlSgjXR%2BQAATBjzZ8Ygar3hQZVNgyLofim8HHql9%2BdSbEuRqMKrPwHc6ePiywyiyhb6mgTmwCGG3IhZMa%2Fb6LViWM3BltIZX0WKpgShhK8oIkqfDZr%2BgFlcd%2FYA%2BD6sObsGdV005uWFuuvH3v0uVv3h8zQat3nj2opHjdeDkL2TcGidQxRLzeQZzGqf9sf5Ri52Z6o4SUvZxE7%2B%2BdIrFzmt00d53goUsuACyJcrYDdnvwkfm1LUE%2F6G083A2SIrHAN8VT0KlpBOB1S%2B7RrCfM8%2BO8rlhIHbALkuArgTO9yP%2FiNDAgyAvYYzxp4WzSgB3ru3WAdfcBJQDWcSeayZU798ZDm6nJ%2FfUwMOeYBydRJBo%2FusmW%2BclOKPrNEagniLQRLJ0pcQTIqBLwsqmP3J6um9cFWp%2FWj0lYh0vZV3AhSO5%2B
+----------Wed May 10 20:50:43 2017
+[Thread - 2] 新目标链接 ://detail.tmall.com/item.htm?id=534274368086&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+----------
+[Thread - 1] 正在访问......Wed May 10 20:50:53 2017
+https://click.simba.taobao.com/cc_im?p=kindle&s=409214286&k=449&e=5FovDxmMHZjVR7XomiTrlSgjXR%2BQAATBjzZ8Ygar3hQZVNgyLofim8HHql9%2BdSbEuRqMKrPwHc6ePiywyiyhb6mgTmwCGG3IhZMa%2Fb6LViWM3BltIZX0WKpgShhK8oIkqfDZr%2BgFlcd%2FYA%2BD6sObsGdV005uWFuuvH3v0uVv3h8zQat3nj2opHjdeDkL2TcGidQxRLzeQZzGqf9sf5Ri52Z6o4SUvZxE7%2B%2BdIrFzmt00d53goUsuACyJcrYDdnvwkfm1LUE%2F6G083A2SIrHAN8VT0KlpBOB1S%2B7RrCfM8%2BO8rlhIHbALkuArgTO9yP%2FiNDAgyAvYYzxp4WzSgB3ru3WAdfcBJQDWcSeayZU798ZDm6nJ%2FfUwMOeYBydRJBo%2FusmW%2BclOKPrNEagniLQRLJ0pcQTIqBLwsqmP3J6um9cFWp%2FWj0lYh0vZV3AhSO5%2B
+----------
+[Thread - 2] Wed May 10 20:50:56 2017
+目标地址 ://detail.tmall.com/item.htm?id=534274368086&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+----------
+[Thread - 2] 开始访问......Wed May 10 20:50:56 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=534274368086&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+----------
+保存到 : C:/Users/Administrator/Desktop/myspider/cc_imp=kindle&s=409214286&k=449&e=5FovDxmMHZjVR7XomiTrlSgjXR%2BQAATBjzZ8Ygar3hQZVNgyLofim8HHql9%2BdSbEuRqMKrPwHc6ePiywyiyhb6mgTmwCGG3IhZMa%2Fb6LViWM3BltIZX0WKpgShhK8oIkqfDZr%2BgFlcd%2FYA%2BD6sObsGdV005uWFuuvH3v0uVv3h8zQat3nj2opHjdeDkL2TcGidQxRLzeQZzGqf9sf5Ri52Z6o4SUvZxE7%2B%2BdIrFzmt00d53goUsuACyJcrYDdnvwkfm1LUE%2F6G083A2SIrHAN8VT0KlpBOB1S%2B7RrCfM8%2BO8rlhIHbALkuArgTO9yP%2FiNDAgyAvYYzxp4WzSgB3ru3WAdfcBJQDWcSeayZU798ZDm6nJ%2FfUwMOeYBydRJBo%2FusmW%2BclOKPrNEagniLQRLJ0pcQTIqBLwsqmP3J6um9cFWp%2FWj0lYh0vZV3AhSO5%2B.txt
+----------
+[Thread - 2] 正在访问......Wed May 10 20:51:06 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=534274368086&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - //detail.tmall.com/item.htm?id=534274368086&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+----------Wed May 10 20:51:08 2017
+[Thread - 2] 新目标链接 ://detail.tmall.com/item.htm?id=536054401369&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+----------
+[Thread - 2] Wed May 10 20:51:08 2017
+目标地址 ://detail.tmall.com/item.htm?id=536054401369&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+----------
+[Thread - 2] 开始访问......Wed May 10 20:51:08 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=536054401369&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+----------
+[Thread - 2] 正在访问......Wed May 10 20:51:18 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=536054401369&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - //detail.tmall.com/item.htm?id=536054401369&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=0
+----------Wed May 10 20:51:19 2017
+[Thread - 2] 新目标链接 ://detail.tmall.com/item.htm?id=541985647856&ns=1&abbucket=0
+----------
+[Thread - 2] Wed May 10 20:51:19 2017
+目标地址 ://detail.tmall.com/item.htm?id=541985647856&ns=1&abbucket=0
+----------
+[Thread - 2] 开始访问......Wed May 10 20:51:19 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=541985647856&ns=1&abbucket=0
+----------
+[Thread - 2] 正在访问......Wed May 10 20:51:29 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=541985647856&ns=1&abbucket=0
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - //detail.tmall.com/item.htm?id=541985647856&ns=1&abbucket=0
+----------Wed May 10 20:51:30 2017
+[Thread - 2] 新目标链接 ://detail.tmall.com/item.htm?id=529330967656&ns=1&abbucket=0
+----------
+[Thread - 2] Wed May 10 20:51:30 2017
+目标地址 ://detail.tmall.com/item.htm?id=529330967656&ns=1&abbucket=0
+----------
+[Thread - 2] 开始访问......Wed May 10 20:51:30 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=529330967656&ns=1&abbucket=0
+----------
+[Thread - 2] 正在访问......Wed May 10 20:51:40 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=529330967656&ns=1&abbucket=0
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - //detail.tmall.com/item.htm?id=529330967656&ns=1&abbucket=0
+----------Wed May 10 20:51:41 2017
+[Thread - 2] 新目标链接 ://detail.tmall.com/item.htm?id=44758603184&ns=1&abbucket=0
+----------
+[Thread - 2] Wed May 10 20:51:41 2017
+目标地址 ://detail.tmall.com/item.htm?id=44758603184&ns=1&abbucket=0
+----------
+[Thread - 2] 开始访问......Wed May 10 20:51:41 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=44758603184&ns=1&abbucket=0
+----------
+[Thread - 2] 正在访问......Wed May 10 20:51:51 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=44758603184&ns=1&abbucket=0
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - //detail.tmall.com/item.htm?id=44758603184&ns=1&abbucket=0
+----------Wed May 10 20:51:52 2017
+[Thread - 2] 新目标链接 ://detail.tmall.com/item.htm?id=522680881881&ns=1&abbucket=0
+----------
+[Thread - 2] Wed May 10 20:51:52 2017
+目标地址 ://detail.tmall.com/item.htm?id=522680881881&ns=1&abbucket=0
+----------
+[Thread - 2] 开始访问......Wed May 10 20:51:52 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=522680881881&ns=1&abbucket=0
+----------
+[Thread - 2] 正在访问......Wed May 10 20:52:02 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=522680881881&ns=1&abbucket=0
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - //detail.tmall.com/item.htm?id=522680881881&ns=1&abbucket=0
+----------Wed May 10 20:52:04 2017
+[Thread - 2] 新目标链接 ://detail.tmall.com/item.htm?id=530853853296&ns=1&abbucket=0
+----------
+[Thread - 2] Wed May 10 20:52:04 2017
+目标地址 ://detail.tmall.com/item.htm?id=530853853296&ns=1&abbucket=0
+----------
+[Thread - 2] 开始访问......Wed May 10 20:52:04 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=530853853296&ns=1&abbucket=0
+----------
+[Thread - 2] 正在访问......Wed May 10 20:52:14 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=530853853296&ns=1&abbucket=0
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - //detail.tmall.com/item.htm?id=530853853296&ns=1&abbucket=0
+----------Wed May 10 20:52:15 2017
+[Thread - 2] 新目标链接 ://detail.tmall.com/item.htm?id=530420018213&ns=1&abbucket=0
+----------
+[Thread - 2] Wed May 10 20:52:15 2017
+目标地址 ://detail.tmall.com/item.htm?id=530420018213&ns=1&abbucket=0
+----------
+[Thread - 2] 开始访问......Wed May 10 20:52:15 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=530420018213&ns=1&abbucket=0
+----------
+[Thread - 2] 正在访问......Wed May 10 20:52:25 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=530420018213&ns=1&abbucket=0
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - //detail.tmall.com/item.htm?id=530420018213&ns=1&abbucket=0
+----------Wed May 10 20:52:27 2017
+[Thread - 2] 新目标链接 ://detail.tmall.com/item.htm?id=45073526258&ns=1&abbucket=0
+----------
+[Thread - 2] Wed May 10 20:52:27 2017
+目标地址 ://detail.tmall.com/item.htm?id=45073526258&ns=1&abbucket=0
+----------
+[Thread - 2] 开始访问......Wed May 10 20:52:27 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=45073526258&ns=1&abbucket=0
+----------
+[Thread - 2] 正在访问......Wed May 10 20:52:37 2017
+https://s.taobao.com//detail.tmall.com/item.htm?id=45073526258&ns=1&abbucket=0
+----------
+[Thread - 2] 找下一个链接 : 
+现父链接 - https://s.taobao.com/search?initiative_id=tbindexz_20170510&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=kindle&suggest=history_4&_input_charset=utf-8&wq=&suggest_query=&source=suggest
+现链接 - //detail.tmall.com/item.htm?id=45073526258&ns=1&abbucket=0
+----------
+[Thread - 2] 线程结束
